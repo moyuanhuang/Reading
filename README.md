@@ -12,4 +12,7 @@ manners maketh man
 ## NLP
 1. [Brief history of word2Vec.(2014)](http://techblog.youdao.com/?p=915)
 
+## TODO
+1. [React](https://facebook.github.io/react/tutorial/tutorial.html)
+
 ## 签到
